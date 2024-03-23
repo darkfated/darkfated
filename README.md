@@ -1,13 +1,16 @@
 ```python
 class DarkFated:
-    languages = ['Lua', 'C++', 'JavaScript', 'HTML', 'CSS']
-    hobbies = ['Drawing', 'Watching Anime', 'Computer games']
-   
+    def __init__(self):
+        self.languages = ['Lua', 'C++', 'JavaScript', 'HTML', 'CSS']
+        self.hobbies = ['Drawing', 'Watching Anime', 'Computer Games']
+
+    @staticmethod
     def get_city():
-        return Russia_Moscow()
-   
+        return 'Russia, Moscow'
+
+    @staticmethod
     def ambition():
-        LearningEnglish()
-        CreateSkyNet()
-        PromotingYourGameServer()
+        learning_english()
+        create_skynet()
+        promoting_your_game_server()
 ```
