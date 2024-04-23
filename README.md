@@ -1,7 +1,7 @@
 ```python
 class DarkFated:
     def __init__(self):
-        self.languages = ['Lua', 'C++', 'JavaScript', 'HTML', 'CSS']
+        self.languages = ['Lua', 'C++', 'JavaScript', 'HTML', 'CSS', 'Python']
         self.hobbies = ['Drawing', 'Watching Anime', 'Computer Games']
 
     @staticmethod
