@@ -1,16 +1,15 @@
-```python
-class DarkFated:
-    def __init__(self):
-        self.languages = ['C++', 'Lua, ''JavaScript', 'Python', 'C#']
-        self.hobbies = ['Drawing', 'Watching Anime', 'Computer Games']
+# 👋 Hello World
+Добро пожаловать в мой GitHub профиль! Здесь можно найти полезные репозитории, мои идеи, а также необычные проекты ✨
 
-    @staticmethod
-    def get_city():
-        return 'Russia, Moscow'
+---
+## 📦 Мои технологии
+<img src="https://skillicons.dev/icons?i=git,go,py,lua,mysql,sqlite,html,css,md,cpp,cs" />
 
-    @staticmethod
-    def ambition():
-        learning_english()
-        create_skynet()
-        promoting_your_game_server()
-```
+## 🔧 Инструменты
+<img src="https://skillicons.dev/icons?i=github,linux,discord,vscode,visualstudio,ps,pr,obsidian" />
+
+---
+## 📅 Статистика
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darkfated&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=darkfated&layout=compact&theme=dark&hide_border=true)
