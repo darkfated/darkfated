@@ -10,6 +10,4 @@
 
 ---
 ## 📅 Статистика
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darkfated&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
-
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=darkfated&layout=compact&theme=dark&hide_border=true)
