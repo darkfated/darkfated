@@ -10,4 +10,3 @@
 
 ---
 ## 📅 Статистика
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=darkfated&layout=compact&theme=dark&hide_border=true)
