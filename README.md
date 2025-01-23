@@ -1,6 +1,8 @@
 # 👋 Hello World
 Добро пожаловать в мой GitHub профиль! Здесь можно найти полезные репозитории, мои идеи, а также необычные проекты ✨
 
+Кроме того, у меня есть [Telegram группа](https://t.me/darkfated_group) 💌
+
 ---
 ## 📦 Мои технологии
 <img src="https://skillicons.dev/icons?i=git,go,py,lua,mysql,sqlite,html,css,md,cpp,cs" />
