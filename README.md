@@ -1,15 +1,25 @@
-# 👋 Hello World
-Добро пожаловать в мой GitHub профиль! Здесь можно найти полезные репозитории, мои идеи, а также необычные проекты ✨
+# 👋 Hi, I'm Dark
 
-Кроме того, у меня есть [Telegram группа](https://t.me/darkfated_group) 💌
-
----
-## 📦 Мои технологии
-<img src="https://skillicons.dev/icons?i=git,go,py,lua,mysql,sqlite,html,css,md,cpp,cs" />
-
-## 🔧 Инструменты
-<img src="https://skillicons.dev/icons?i=github,linux,discord,vscode,visualstudio,ps,pr,obsidian" />
+I'm a backend developer focused on **Golang**. I love working with **Lua** and **C#**, and I'm always exploring new tech 😄
 
 ---
-## 📅 Статистика
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=darkfated&layout=compact&theme=dark&hide_border=true)
+
+**Languages:**  
+Golang, Python, C#, C++, HTML+CSS, JavaScript, Lua
+
+**Frameworks & Tools:**  
+Gin, Beego, Django, FastAPI, Flask, Qt6, WPF, ASP.NET, Entity Framework, Vue.js, Git, GitHub
+
+**Other:**  
+MySQL, SQLite, PostgreSQL, Docker, CMake
+
+---
+
+## 📅 Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkfated&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contact
+You can contact me via Telegram [@darkfated](https://t.me/darkfated) or check out my group [@darkfated_group](https://t.me/darkfated_group)
