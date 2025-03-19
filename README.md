@@ -8,7 +8,7 @@ I'm a backend developer focused on **Golang**. I love working with **Lua** and *
 Golang, Python, C#, C++, HTML+CSS, JavaScript, Lua
 
 **Frameworks & Tools:**  
-Gin, Beego, Django, FastAPI, Flask, Qt6, WPF, ASP.NET, Entity Framework, Vue.js, Git, GitHub
+Gin, Beego, Django, FastAPI, Flask, Qt6, WPF, ASP.NET, Entity Framework, Vue.js, Git
 
 **Other:**  
 MySQL, SQLite, PostgreSQL, Docker, CMake
