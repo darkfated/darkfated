@@ -12,7 +12,7 @@
 - `Gin` · `Beego` (Go)  
 - `Django` · `FastAPI` · `Flask` · `Pytest` (Python)  
 - `Qt6` · `WPF` · `ASP.NET` · `Entity Framework` (C#/C++)  
-- `Vue.js` (Frontend)  
+- `Vue.js`, `React` (Frontend)  
 
 **Databases & DevOps**  
 `MySQL` · `SQLite` · `PostgreSQL` · `Docker` · `Nginx` · `CMake`  
