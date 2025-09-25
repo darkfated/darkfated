@@ -2,4 +2,4 @@
   <img src="./profile.gif">
 </p>
 
-<h1 align="center">hi, i'm darkfated!</h1>
+<h3 align="center">hi, i'm darkfated! :shinto_shrine:</h1>
